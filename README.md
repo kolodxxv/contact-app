@@ -1,4 +1,4 @@
 # contact-app
-Contact-list app based on the React JS
+React Conact List App 
 
 ![alt text](img.png)
